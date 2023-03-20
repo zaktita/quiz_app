@@ -9,11 +9,14 @@
   place-items: center;
 }
 
+body{
+  background: linear-gradient(306deg, rgba(247,243,215,1) 0%, rgba(138,43,226,1) 100%); 
+}
 
 .card{
   width: 400px;
   padding: 50px;
-  background-color: blueviolet;
+  background-color: #8a2be2;
   border-radius: 10px;
 }
 
