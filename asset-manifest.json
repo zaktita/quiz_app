@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zaktita/quiz_app/static/css/main.32db4255.css",
+    "main.js": "/zaktita/quiz_app/static/js/main.85135834.js",
+    "index.html": "/zaktita/quiz_app/index.html",
+    "main.32db4255.css.map": "/zaktita/quiz_app/static/css/main.32db4255.css.map",
+    "main.85135834.js.map": "/zaktita/quiz_app/static/js/main.85135834.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32db4255.css",
+    "static/js/main.85135834.js"
+  ]
+}
